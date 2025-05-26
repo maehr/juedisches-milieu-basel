@@ -11,7 +11,7 @@ export const config: Config = {
       type: 'www',
       // comment the following line to disable service workers in production
       serviceWorker: null,
-      baseUrl: 'https://stadt-geschichte-basel.github.io/juedisches-milieu-basel/',
+      baseUrl: 'https://apps.stadtgeschichtebasel.ch/',
     },
   ],
 };

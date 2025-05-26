@@ -36,6 +36,11 @@ To run the unit tests and watch for file changes during development, run:
 npm run test.watch
 ```
 
+To deploy the app to GitHub Pages, run:
+
+```bash
+npm run deploy
+```
 
 ## Docker
 
