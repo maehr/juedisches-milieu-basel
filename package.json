@@ -11,19 +11,21 @@
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate",
-    "serve": "cd www && npx wds --node-resolve --open"
+    "serve": "cd www && npx wds --node-resolve --open",
+    "deploy": "gh-pages -d www/juedisches-milieu-basel/"
   },
   "devDependencies": {
     "@ionic/core": "^7.0.9",
     "@stencil/core": "^4.2.1",
     "@stencil/store": "^2.0.9",
+    "@triply/yasgui": "^4.2.28",
     "@types/jest": "~27.0.3",
     "@web/dev-server": "^0.3.0",
+    "gh-pages": "^6.3.0",
     "ionicons": "^7.1.1",
     "jest": "~27.0.3",
     "jest-cli": "~27.4.5",
-    "puppeteer": "^20.4.0",
-    "@triply/yasgui": "^4.2.28"
+    "puppeteer": "^20.4.0"
   },
   "license": "MIT",
   "dependencies": {
