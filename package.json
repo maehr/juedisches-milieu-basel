@@ -18,14 +18,13 @@
     "@ionic/core": "^7.0.9",
     "@stencil/core": "^4.2.1",
     "@stencil/store": "^2.0.9",
-    "@triply/yasgui": "^4.2.28",
     "@types/jest": "~27.0.3",
     "@web/dev-server": "^0.3.0",
-    "gh-pages": "^6.3.0",
     "ionicons": "^7.1.1",
     "jest": "~27.0.3",
     "jest-cli": "~27.4.5",
-    "puppeteer": "^20.4.0"
+    "puppeteer": "^20.4.0",
+    "@triply/yasgui": "^4.2.28"
   },
   "license": "MIT",
   "dependencies": {
