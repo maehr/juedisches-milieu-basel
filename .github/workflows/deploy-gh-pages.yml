@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Creat www directory
-        run: mkdir -p www
-
       - name: Build Stencil app
         run: npm run build
 
