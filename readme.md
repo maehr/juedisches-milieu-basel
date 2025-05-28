@@ -53,7 +53,7 @@ docker build -t juedisches-basel-app .
 Start docker container
 
 ```bash
-docker run -d -p 8080:8080 --name jb-app juedisches-basel-app 
+docker run -d -p 8080:8080 --name jb-app juedisches-basel-app
 ```
 
 Stop and remove docker container
