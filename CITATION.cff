@@ -1,0 +1,54 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: juedisches‑milieu‑basel
+message: >-
+  If you use this software, please cite it as indicated
+  below.
+type: software
+authors:
+  - family-names: Pfister
+    given-names: Beni
+  - family-names: Schneider
+    given-names: Jonas
+  - family-names: Knecht
+    given-names: David
+  - family-names: Mähr
+    given-names: Moritz
+    orcid: 'https://orcid.org/0000-0002-1367-1618'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.TBD
+    description: Archived code base
+repository-code: >-
+  https://github.com/Stadt-Geschichte-Basel/juedisches-milieu-basel
+url: 'https://das-juedische-basel.stadtgeschichtebasel.ch/'
+abstract: >-
+  This digital puzzle offers a twelve-part interactive
+  exploration of the history of Jewish life in Basel between
+  1850 and 1914. Users unlock individual puzzle pieces by
+  engaging with historical content and solving corresponding
+  questions. A correct answer reveals the reverse of the
+  piece and grants access to the next stage. As a final
+  reward, successful participants receive a free museum
+  entry. The game is designed to foster curiosity and
+  engagement, while also stimulating cognitive functions
+  such as concentration and short-term memory. By blending
+  play with learning, the application encourages users to
+  deepen their understanding of Jewish history in Basel
+  through active participation.
+keywords:
+  - Jewish history
+  - Basel
+  - digital history
+  - gamification
+  - interactive learning
+  - public history
+  - cultural heritage
+  - puzzle-based learning
+  - 19th century
+  - early 20th century
+license: MIT
+version: 1.0.1
+date-released: '2025-06-17'
