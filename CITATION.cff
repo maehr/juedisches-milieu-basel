@@ -17,6 +17,13 @@ authors:
   - family-names: Mähr
     given-names: Moritz
     orcid: 'https://orcid.org/0000-0002-1367-1618'
+  - name: KleioLab GmbH
+    address: Pfeffingerstrasse 59
+    post-code: '4053'
+    city: Basel
+    country: CH
+    email: info@kleiolab.ch
+    website: 'https://kleiolab.ch/'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.TBD
