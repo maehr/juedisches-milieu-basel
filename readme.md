@@ -6,6 +6,7 @@ An interactive digital puzzle exploring the history of Jewish life in Basel betw
 [![GitHub stars](https://img.shields.io/github/stars/Stadt-Geschichte-Basel/juedisches-milieu-basel.svg)](https://github.com/Stadt-Geschichte-Basel/juedisches-milieu-basel/stargazers)
 [![License](https://img.shields.io/github/license/Stadt-Geschichte-Basel/juedisches-milieu-basel)](https://github.com/Stadt-Geschichte-Basel/juedisches-milieu-basel/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15681537.svg)](https://zenodo.org/record/15681537)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://doi.org/10.5281/zenodo.15681536)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://doi.org/10.5281/zenodo.15681536)
 
 ## 🚀 Live Version
 
